@@ -1,7 +1,7 @@
 <h3>week 03 assignment</h3>
 <p>this week we'd like to see you design a feature in the MIT project using Teachable Machine</p>
 <h3>design goals:</h3>
-<p>create a system for person who has a disabilty: blindness, deafness, neurodiversity</p>
+<p>create a system for a person who has a disabilty: blindness, deafness, neurodiversity</p>
 <h3>instructions</h3>
 <ul><li>use Teachable Image Model</li>
   <li>upload the model to a URL</li>
