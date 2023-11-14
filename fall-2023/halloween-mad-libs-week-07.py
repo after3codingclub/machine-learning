@@ -10,8 +10,8 @@ def halloween_madlibs():
 
     # Display the story
     print("\nHere's your spooky Halloween story:")
-    print(f"On a {adjective} Halloween night, a group of {plural_noun} decided to {verb}.")
-    print(f"They ventured into the haunted {place} where they encountered a terrifying {creature}!")
+    print("On a {adjective} Halloween night, a group of {plural_noun} decided to {verb}.")
+    print("They ventured into the haunted {place} where they encountered a terrifying {creature}!")
 
 # Run the madlibs game
 halloween_madlibs()
